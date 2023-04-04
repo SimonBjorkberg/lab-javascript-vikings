@@ -59,5 +59,5 @@ class War {
     }
     vikingAttack() {}
     saxonAttack() {}
-    showStatus() {}
+    showStatus() {} 
 }
